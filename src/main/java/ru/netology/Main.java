@@ -4,9 +4,9 @@ public class Main {
 
     public static void main(String[]args){
         FormDate form = new FormDate();
-        form.day = "13";
-        form.month = "6";
-        form.year = "1999";
+        form.day = 13;
+        form.month = 6;
+        form.year = 1999;
 
         Post post = new Post();
         post.name = "Иван";
